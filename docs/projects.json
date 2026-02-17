@@ -108,7 +108,9 @@
         "Improved data consistency through validation checks and structured output generation",
         "Delivered report-ready files aligned with operational and supervisor data requests"
       ],
-      "imageSets": [],
+      "imageSets": [
+        { "folder": "images/projects", "prefix": "script", "start": 1, "end": 4, "ext": "png" }
+      ],
       "extraImages": [],
       "video": "https://drive.google.com/file/d/1Bs9qXwHjcYDsJ2y_xBmt4GL8Wn-Zoz3X/view?usp=drive_link",
       "note": "Demo video shows a representative automation workflow. Scripts vary depending on dataset size and request requirements."
